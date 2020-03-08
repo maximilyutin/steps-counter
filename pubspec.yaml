@@ -16,6 +16,8 @@ dependencies:
   flutter_bloc: ^3.2.0
   equatable: ^1.1.1
 
+  pedometer: ^1.0.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
