@@ -1,3 +1,3 @@
 # steps_counter
 
-Fitness app that counts daily steps
+Fitness app that counts steps
